@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: c5283bd474627904095eb301713f0267
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - spriteInimigo: {fileID: 21300000, guid: 743816e291ef39f40b0261fdf078c45f, type: 3}
+  - inimigoPrefab: {fileID: 3751608120500910732, guid: 309d9c757765cd14ea05729a864bb376, type: 3}
+  - alvo: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
