@@ -1,5 +1,5 @@
 Felpudo Voador: Batalha contra o Chefe — Jogo 2D
-[link do Unity Play]
+[https://play.unity.com/en/games/ac5d3e83-8c31-4388-b4ac-07a1df24240b/flappy-birds-trabalho]
 
 Jogo 2D de ação feito na Unity 6 com sprites e geração de inimigos por código. O Felpudo voa pela tela, atira nas lesmas-balão que vêm em sua direção e, depois de um tempo, enfrenta um chefe gigante. Derrotando o chefe, aparece a mensagem VOCÊ VENCEU!
 
@@ -56,7 +56,7 @@ Para jogar de novo, atualize a página.
 - **Sprite Inimigo / Sprite Chefe:** imagens usadas
 
 ## Demonstração
-O vídeo ([link do YouTube]) mostra uma partida completa, do início até a vitória.
+O vídeo ([https://youtu.be/mOmNjTp9Cq4]) mostra uma partida completa, do início até a vitória.
 
 ## Regras resumidas
 - O botão esquerdo do mouse faz o Felpudo pular; o direito (ou a barra de espaço) atira.
@@ -67,4 +67,4 @@ O vídeo ([link do YouTube]) mostra uma partida completa, do início até a vit�
 ## Créditos
 Trabalho desenvolvido por Sostenes.
 
-Sprites do Felpudo e das lesmas-balão: [origem do material, por exemplo, prática Lab da UNEB].
+Sprites do Felpudo e das lesmas-balão.
